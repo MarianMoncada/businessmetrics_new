@@ -1,0 +1,1 @@
+/usr/lib/postgresql/15/bin/postgres "-c" "wal_level=replica" "-c" "archive_mode=on" "-c" "archive_command=test ! -f /var/lib/postgresql/backups/wal_archive/%f && cp %p /var/lib/postgresql/backups/wal_archive/%f"
