@@ -1,11 +1,11 @@
-# 📊 BusinessMetrics - Sistema de Administración de Base de Datos
+# 📊 BusinessMetrics - Proyecto final de Administración de Base de Datos
 
 [![Python](https://img.shields.io/badge/Python-99.5%25-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-Sistema integral de administración de bases de datos empresariales que implementa las mejores prácticas de gestión, monitoreo, respaldo y seguridad de datos.
+Sistema integral de administración de bases de datos empresariales que implementa las prácticas aprendidas de gestión, monitoreo, respaldo y seguridad de datos.
 
 ---
 
