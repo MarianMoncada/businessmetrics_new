@@ -324,33 +324,14 @@ Las contribuciones son bienvenidas. Para contribuir:
 4. Push a la rama (`git push origin feature/nueva-funcionalidad`)
 5. Abre un Pull Request
 
-### Estándares de Código
-
-- Seguir PEP 8 para código Python
-- Documentar funciones y procedimientos
-- Incluir tests para nuevas funcionalidades
-- Actualizar documentación según corresponda
-
----
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
 
 ---
 
 ## 👥 Autores
 
-- **Marian Moncada** - *Desarrollo Principal* - [GitHub](https://github.com/MarianMoncada)
-
----
-
-## 📞 Soporte
-
-Si tienes preguntas o necesitas ayuda:
-
-- Abre un [Issue](https://github.com/MarianMoncada/businessmetrics_new/issues) en GitHub
-- Revisa la [documentación técnica](docs/) del proyecto
+- **Fajardo Barraza Ana Paloma**
+- **Goudge Moncada Marian** 
+- **Falcón Díaz Ricardo**
 
 ---
 
