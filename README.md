@@ -29,7 +29,7 @@ Sistema integral de administración de bases de datos empresariales que implemen
 
 ## 🎯 Descripción del Proyecto
 
-**BusinessMetrics** es un proyecto académico de Administración de Bases de Datos (ABD) que demuestra la implementación práctica de conceptos fundamentales en la gestión de sistemas de bases de datos empresariales. El proyecto integra herramientas modernas como Docker, PostgreSQL y Apache Airflow para crear un entorno completo de administración de datos.
+**BusinessMetrics** es un proyecto académico de Administración de Bases de Datos (ABD) que demuestra la implementación práctica de conceptos fundamentales en la gestión de sistemas de bases de datos. El proyecto integra herramientas m como Docker, PostgreSQL y Apache Airflow para crear un entorno completo de administración de datos.
 
 ### Objetivos del Proyecto
 
@@ -71,8 +71,6 @@ Sistema integral de administración de bases de datos empresariales que implemen
 
 ## 📦 Requisitos Previos
 
-Antes de instalar el proyecto, asegúrate de tener instalado:
-
 - **Docker Desktop** v20.10 o superior
 - **Docker Compose** v2.0 o superior
 - **Git** v2.30 o superior
@@ -99,13 +97,9 @@ cd businessmetrics_new
 
 ### 2. Configurar variables de entorno
 
-Copia el archivo de ejemplo y edita las variables según tu entorno:
-
 ```bash
 cp .env.example .env
 ```
-
-Edita el archivo `.env` con tus configuraciones:
 
 ```env
 # Base de Datos
@@ -135,8 +129,6 @@ docker-compose up -d
 ```bash
 docker-compose ps
 ```
-
-Deberías ver todos los servicios en estado "running".
 
 ---
 
@@ -313,16 +305,6 @@ El proyecto incluye un sistema de monitoreo que supervisa:
 ```
 
 ---
-
-## 🤝 Contribución
-
-Las contribuciones son bienvenidas. Para contribuir:
-
-1. Fork el repositorio
-2. Crea una rama para tu feature (`git checkout -b feature/nueva-funcionalidad`)
-3. Commit tus cambios (`git commit -m 'Agregar nueva funcionalidad'`)
-4. Push a la rama (`git push origin feature/nueva-funcionalidad`)
-5. Abre un Pull Request
 
 
 ---
